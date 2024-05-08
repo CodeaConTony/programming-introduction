@@ -22,7 +22,7 @@ print(temperatura_fahrenheit)
 #3 Redondear 9.86998 con 3 decimales
 
 # Tu solución
-print(round(9.86998, 3))
+print(round(9.86798, 3))
 
 #4 Calcular el valor absoluto de -155
 
