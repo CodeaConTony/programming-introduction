@@ -1,4 +1,7 @@
 # Booleans
+True
+False
+
 es_administrador = False
 print(es_administrador)
 
