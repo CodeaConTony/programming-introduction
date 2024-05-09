@@ -21,6 +21,7 @@ Este repositorio contiene materiales y recursos para un curso introductorio a la
 - [Ejercicios con Strings](https://github.com/CodeaConTony/programming-introduction/blob/main/03-strings-exercises.py)
 
 - [Números](https://github.com/CodeaConTony/programming-introduction/blob/main/04-numbers.py)
+- [Ejercicios con Números](https://github.com/CodeaConTony/programming-introduction/blob/main/05-numbers-exercises.py)
 
 ## Instalaciones necesarias
 
