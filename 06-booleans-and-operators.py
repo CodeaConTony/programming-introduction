@@ -1,6 +1,4 @@
 # Booleans
-True
-False
 es_administrador = False
 print(es_administrador)
 
@@ -49,20 +47,20 @@ print(x >= y)
 
 print(x <= y)
 
-print(x += 2)
+x += 2
 
-print(x -= 2)
+x -= 2
 
-print(x *= 2)
+x *= 2
 
-print(x /= 2)
+x /= 2
 
-print(x //= 2)
+x //= 2
+
+print(x)
 
 print('a' < 'b' and 'c' > 'd')
 
 print('a' < 'b' and 'd' > 'c')
 
 print(x > y or x < y)
-
-
