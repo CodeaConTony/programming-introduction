@@ -32,7 +32,7 @@ else:
 # siendo muy corta si tiene menos de 6 caracteres y muy larga si tiene mas de 12 caracteres
 # si cumple estas dos condiciones imprime "✅ Contraseña aceptable"
 
-# Pista: puedes usar la funcón de longitud len() para obtener la longitud de una cadena
+# Pista: puedes usar la función de longitud len() para obtener la longitud de una cadena
 
 password = 'BCUBCncue8783493nBEU'
 
