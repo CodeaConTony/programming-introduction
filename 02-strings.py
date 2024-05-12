@@ -11,7 +11,7 @@ cita_textual_ingles = 'Tony said: "I\'m learning Python"'
 
 # print(cita_textual_ingles)
 
- # print(len(nombre))
+# print(len(nombre))
 
 # print(nombre[0:7])
 
@@ -28,6 +28,8 @@ cita_textual_ingles = 'Tony said: "I\'m learning Python"'
 
 # Tony Stark tiene 25 años
 
-print(f'{nombre} {apellido} tiene {edad} años') # la manera mas sencilla de concatenar datos
-print(nombre, apellido, 'tiene', edad, 'años' ) # demasiadas comas
-print(nombre + ' ' + apellido + ' tiene ' + str(edad) + ' años') # es necesario convertir todo a string
+# la manera mas sencilla de concatenar datos
+print(f'{nombre} {apellido} tiene {edad} años')
+print(nombre, apellido, 'tiene', edad, 'años')  # demasiadas comas
+print(nombre + ' ' + apellido + ' tiene ' + str(edad) +
+      ' años')  # es necesario convertir todo a string

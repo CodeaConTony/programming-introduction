@@ -23,8 +23,8 @@ username = input('Ingresa un nombre de usuario: ')
 password = input('Ingresa una contraseña: ')
 
 if len(password) < 6:
-  print('❌ Contraseña muy corta')
+    print('❌ Contraseña muy corta')
 elif len(password) > 12:
-  print('❌ Contraseña muy larga')
+    print('❌ Contraseña muy larga')
 else:
-  print('✅ Contraseña aceptable')
+    print('✅ Contraseña aceptable')

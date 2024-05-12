@@ -27,7 +27,7 @@ cantidad_vidas = 3
 if obstaculo and salta:
     print(f'{personaje} salta y evita el obstaculo')
 # elif obstaculo == False:
-elif not obstaculo: # como aprendimos se puede poner not para negar la condicion y es lo mismo que obstaculo == False
+elif not obstaculo:  # como aprendimos se puede poner not para negar la condicion y es lo mismo que obstaculo == False
     print(f'No pasa nada, {personaje} sigue su curso')
 else:
     print(f'{personaje} no salta y no evita el obstaculo')
